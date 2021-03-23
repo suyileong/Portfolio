@@ -20,7 +20,6 @@ twitter: '@Suyi_Leong'
 
 # Contact (edit or remove options as required)
 
-email: suyi.leong0206@gmail.com
 contact_links:
   - icon: twitter
     icon_pack: fab
@@ -28,7 +27,7 @@ contact_links:
     link: 'https://twitter.com/Suyi_Leong'
   - icon: linkedin
     icon_pack: fab
-    name: Let's Connect
+    name: Let's Connect!
     link: 'https://www.linkedin.com/in/suyi-leong/'
 
 # Site header
