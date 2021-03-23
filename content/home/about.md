@@ -4,13 +4,13 @@
 widget: about
 
 # Activate this widget? true/false
-active: false
+active: true
 
 # This file represents a page section.
 headless: true
 
 # Order that this section appears on the page.
-weight: 20
+weight: 1
 
 title: Biography
 
@@ -19,3 +19,4 @@ title: Biography
 # See https://wowchemy.com/docs/get-started/#introduce-yourself
 author: admin
 ---
+you can write your biography here
