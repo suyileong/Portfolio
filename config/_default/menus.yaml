@@ -32,7 +32,3 @@ main:
 #    url: uploads/resume.pdf
 #    weight: 70
 
-[[main]]
-  name = "Suyi Leong"  # Title of the link.
-  url = "landing/"  # Widget Page folder name.
-  weight = 2  # Position of the link in the navigation bar.
